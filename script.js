@@ -32,6 +32,3 @@ botao.onclick = function () {
 
 }
 
-
-
-

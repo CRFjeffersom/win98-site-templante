@@ -3,7 +3,7 @@
 const icone = document.querySelector(".icon-meucomputer");
 
 icone.addEventListener("dblclick", () => {
-    criarJanela("Meu Computador",
+    criarJanela("💻 Meu Computador",
         
         `
         <button>📁 Disco Local (C:)</button><br><br>

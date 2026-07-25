@@ -183,3 +183,33 @@ body{
     padding:10px;
 }
 
+#programas-abertos{
+
+    flex:1;
+
+    display:flex;
+
+    gap:4px;
+
+    margin:0 8px;
+
+    overflow:hidden;
+
+}
+
+.botao-programa{
+
+    min-width:160px;
+    max-width:200px;
+
+    height:32px;
+
+    background:#C0C0C0;
+
+    border-top:2px solid #FFF;
+    border-left:2px solid #FFF;
+    border-right:2px solid #808080;
+    border-bottom:2px solid #808080;
+
+    cursor:pointer; 
+}
