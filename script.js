@@ -34,12 +34,4 @@ botao.onclick = function () {
 
 
 
-//criarJanela("Meu Computador");
 
-const icone = document.querySelector(".icon-button");
-
-icone.addEventListener("dblclick", () => {
-    criarJanela("Meu Computador");
-});
-
-//
