@@ -1,3 +1,6 @@
+
+
+
 //criarJanela("Meu Computador");
 
 const icone = document.querySelector(".icon-meucomputer");
