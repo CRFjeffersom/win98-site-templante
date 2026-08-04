@@ -3,9 +3,9 @@
 
 //criarJanela("Meu Computador");
 
-const icone = document.querySelector(".icon-meucomputer");
+const iconeMeuComputador = document.querySelector(".icon-meucomputer");
 
-icone.addEventListener("dblclick", () => {
+iconeMeuComputador.addEventListener("dblclick", () => {
     criarJanela("💻 Meu Computador",
         
         `
